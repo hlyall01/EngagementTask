@@ -34,3 +34,17 @@ Icon?
 ehthumbs.db
 Thumbs.db
 b
+# ====================================
+=
+# Art Assets
+# =====================================
+*.jpg
+*.jpeg
+*.bmp
+*.png
+*.ogg
+*.mp3
+*.wav
+*.fbx
+*.FBX
+*.max
